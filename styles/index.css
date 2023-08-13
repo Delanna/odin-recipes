@@ -1,0 +1,25 @@
+body{
+  background-color: whitesmoke;
+}
+
+h1{
+  color:darkorange;
+  text-align: center;
+  text-shadow: 0.5px 1px 4px orange;
+}
+
+div{
+  background-color:white;
+  width: 40%;
+  margin:auto;
+  padding: 1em;
+  border-radius: 16px;
+  box-shadow: 4px 4px 16px darkgray;
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+}
+
+
